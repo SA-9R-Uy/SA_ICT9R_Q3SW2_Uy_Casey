@@ -30,3 +30,10 @@ body{
       h5{
       	color: white;
       }
+
+      img {
+
+                  margin-top: 20px;
+                  height: 400px;
+                  width: 360px;
+      }
